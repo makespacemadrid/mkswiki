@@ -8,12 +8,11 @@ Los promotores de este proyecto, Sara Alvarellos Navarro y César García Sáez,
 ## 2. Patrocinadores
 
 
+![InstalTIC S. L](assets/MSM01_1.png)
+![Tumaker](assets/MSM01_2.jpg)
 
-InstalTIC S. L
 
 
-
-Tumaker
 
 3. Cofinanciadores
 

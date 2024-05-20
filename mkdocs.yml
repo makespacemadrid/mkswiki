@@ -9,3 +9,7 @@ nav:
       - Introducción:
         - Presentación: 'msm/introduccion/index.md'
         - Makespace Madrid y el Manual de Supervivencia Maker: 'msm/introduccion/sobre-el-manual.md'
+
+
+plugins:
+   - glightbox
