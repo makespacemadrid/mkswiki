@@ -11,12 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/</loc>
+         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/1-index/</loc>
          <lastmod>2024-05-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/sobre-el-manual/</loc>
+         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/2-sobre-el-manual/</loc>
+         <lastmod>2024-05-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/3-ideas-abiertas/</loc>
          <lastmod>2024-05-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
