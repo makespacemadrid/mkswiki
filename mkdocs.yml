@@ -5,6 +5,7 @@ theme:
   user_color_mode_toggle: true
   language: es
   custom_dir: overrides
+  logo: assets/logo.svg
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
