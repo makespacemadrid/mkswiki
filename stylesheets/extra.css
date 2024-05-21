@@ -1,3 +1,22 @@
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        yellow;
+  --md-primary-fg-color--light: yellow;
+  --md-primary-fg-color--dark:  yellow;
+  --md-typeset-a-color: rgb(173, 156, 0);
+
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        rgba(251, 255, 0, 0.89);
+  --md-primary-fg-color--light: rgba(255, 255, 0, 0.89);
+  --md-primary-fg-color--dark:  rgba(255, 255, 0, 0.89);
+  --md-typeset-a-color: rgb(173, 156, 0);
+}
+
+header {
+  color: black !important;
+}
+
 .md-content h1 {
   font-weight: 400 !important;
 }
