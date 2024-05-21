@@ -17,6 +17,10 @@ header {
   color: black !important;
 }
 
+.md-nav__title {
+  color: black !important;
+}
+
 .md-content h1 {
   font-weight: 400 !important;
 }
