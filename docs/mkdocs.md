@@ -5,7 +5,7 @@
 
 ## Dependencias
 ```
-pip install mkdocs mkdocs-material mkdocs-glightbox mkdocs-autolinks-plugin
+pip install mkdocs mkdocs-material mkdocs-glightbox mkdocs-autolinks-plugin mkdocs-git-revision-date-localized-plugin
 ```
 
 ## Configuracion
