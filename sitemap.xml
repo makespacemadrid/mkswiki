@@ -2,27 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://davidpoza.github.io/mkswiki/</loc>
-         <lastmod>2024-05-21</lastmod>
+         <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidpoza.github.io/mkswiki/mkdocs/</loc>
-         <lastmod>2024-05-21</lastmod>
+         <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/1-index/</loc>
-         <lastmod>2024-05-21</lastmod>
+         <loc>https://davidpoza.github.io/mkswiki/msm/01-introduccion/1-index/</loc>
+         <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/2-sobre-el-manual/</loc>
-         <lastmod>2024-05-21</lastmod>
+         <loc>https://davidpoza.github.io/mkswiki/msm/01-introduccion/2-sobre-el-manual/</loc>
+         <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidpoza.github.io/mkswiki/msm/introduccion/3-ideas-abiertas/</loc>
-         <lastmod>2024-05-21</lastmod>
+         <loc>https://davidpoza.github.io/mkswiki/msm/01-introduccion/3-ideas-abiertas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/01-introduccion/4-introduccion-historia-antecedentes/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/1-index/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/2-seguridad-en-un-taller/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/3-midiendo-cosas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/4-uniendo-cosas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/5-rompiendo-cosas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/6-trucos-soldadura-esta%C3%B1o/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/02-trabajo-en-un-taller/7-organizacion/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/03-electronica-y-arduino/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/04-internet-de-las-cosas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/05-impresion-3d/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/06-fresado/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/07-corte-laser/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/08-moldes/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/09-corte-de-vinilo/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/10-otros-proyectos-creativos/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/11-otras-iniciativas/</loc>
+         <lastmod>2024-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidpoza.github.io/mkswiki/msm/12-glosario/</loc>
+         <lastmod>2024-05-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
